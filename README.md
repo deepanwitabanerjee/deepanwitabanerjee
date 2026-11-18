@@ -1,6 +1,6 @@
 ## Hi, I'm Deepanwita (Dee) Banerjee 👋
 
-:woman_scientist: Former Research Scientists @LBNL for about 5 years. I am a Biotechnologist by training who is interested in the intersections between Mathematics and Biology.
+:woman_scientist: I am a Biotechnologist by training who is interested in the intersections between Mathematics and Biology with about 8 years reesearch experience at Lawrence Berkeley National Lab. 
 
 #### 🔭 I’m currently working on:
 - Low o2 project wrapup
