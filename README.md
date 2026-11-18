@@ -10,6 +10,11 @@ Former Research Scientists @LBNL for about 5 years. I am a Biotechnologist by tr
 - ML+AI for computational Biology
 - Understanding agentic systems to support a scientific claims
 
+#### 🔗 Find Me 
+- [Website](https://deepanwitabanerjee.github.io)
+- [Publications](https://scholar.google.com/citations?hl=en&user=SeSWhjYAAAAJ&view_op=list_works) [ORCID](https://orcid.org/0000-0002-0083-0608)
+- [Linkedin](https://www.linkedin.com/in/deepanwitab/)
+
 <!--
 **deepanwitabanerjee/deepanwitabanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
