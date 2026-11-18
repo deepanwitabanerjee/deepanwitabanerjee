@@ -1,8 +1,14 @@
-## Hi there 👋
+## Hi, I'm Deepanwita (Dee) Banerjee 👋
 
-My name is Deepanwita (Dee) Banerjee. I am a Biotechnologist by training who is interested in the intersections between Maths and Biology.
-- 🔭 I’m currently working on understanding agentic systems to support a scientific claims.
-- 🌱 I’m currently learning ML+AI for computational Biology
+Former Research Scientists @LBNL for about 5 years. I am a Biotechnologist by training who is interested in the intersections between Mathematics and Biology.
+
+#### 🔭 I’m currently working on:
+- Low o2 project wrapup into a publication
+- Job search
+
+#### 🌱 I’m currently learning 
+- ML+AI for computational Biology
+- Understanding agentic systems to support a scientific claims
 
 <!--
 **deepanwitabanerjee/deepanwitabanerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
