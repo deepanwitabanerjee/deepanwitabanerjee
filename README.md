@@ -4,10 +4,9 @@ Former Research Scientists @LBNL for about 5 years. I am a Biotechnologist by tr
 
 #### 🔭 I’m currently working on:
 - Low o2 project wrapup into a publication
-- Job search
+- ML+AI for computational Biology
 
 #### 🌱 I’m currently learning 
-- ML+AI for computational Biology
 - Understanding agentic systems to support a scientific claims
 
 #### 🔗 Find Me 
