@@ -3,7 +3,7 @@
 Former Research Scientists @LBNL for about 5 years. I am a Biotechnologist by training who is interested in the intersections between Mathematics and Biology.
 
 #### 🔭 I’m currently working on:
-- Low o2 project wrapup into a publication
+- Low o2 project wrapup
 - ML+AI for computational Biology
 
 #### 🌱 I’m currently learning 
